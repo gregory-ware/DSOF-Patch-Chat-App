@@ -16,7 +16,7 @@
     "sockjs-client": "^1.4.0",
     "webstomp-client": "^1.2.6",
     "marked": "4.0.10",
-    "parse-url": "6.0.1",
+    "parse-url": "8.1.0",
     "nth-check": "2.0.1"
   },
   "devDependencies": {
